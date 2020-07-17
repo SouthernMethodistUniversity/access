@@ -6,7 +6,7 @@
 
 ## Handout for data discussion 
 
-[![tasks](https://github.com/DHRISMU/data/blob/master/images/datalifecycle.png)]
+[![tasks](https://github.com/SouthernMethodistUniversity/ecology/blob/master/images/phlessons.PNG)]
 
 [![tasks](https://github.com/DHRISMU/data/blob/master/images/3challenges.png)]
 
