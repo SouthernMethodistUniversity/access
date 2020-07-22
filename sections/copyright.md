@@ -1,4 +1,4 @@
-[<<< Previous]((https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
+[<<< Previous](https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
 
 # Copyright
 
@@ -33,7 +33,7 @@ If you’re using digital resources that were acquired or made available under a
 See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
 
 ## What is fair use? 
-"Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976."  (https://www.smu.edu/libraries/fondren/services/copyright/fairuse)
+[Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976.](https://www.smu.edu/libraries/fondren/services/copyright/fairuse)
 
 ### Measuring Fair Use: The Four Factors
 * the purpose and character of your use.
@@ -47,12 +47,12 @@ See examples of usage restrictions in the [licenses of ARTstor](https://www-arts
  
 
 # Creative Commons 
-[What is a Creative Commons license?] (https://creativecommons.org/share-your-work/)
+[What is a Creative Commons license?](https://creativecommons.org/share-your-work/)
 
 # Additional readings
 [Policy, Practice, and Law](https://guide.dhcuration.org/contents/policy-practice-and-law/)
 
 
-[<<< Previous]((https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
+[<<< Previous](https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
