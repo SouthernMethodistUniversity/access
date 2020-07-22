@@ -1,4 +1,4 @@
-[<<< Previous] | [Next >>>]  
+[<<< Previous](access.md)
 
 
 ## Social Media
@@ -9,6 +9,6 @@
 [Facebook needs to share more with researchers](https://www.nature.com/articles/d41586-020-00828-5)
 [Additional context](https://www.axios.com/facebook-researchers-data-social-science-one-62dc5018-21d7-49f6-8149-ff421e611dfc.html)
 
-[<<< Previous] | [Next >>>]
+[<<< Previous](access.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
