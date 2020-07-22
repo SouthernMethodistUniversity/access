@@ -1,38 +1,26 @@
 
 # Digital Projects and Research 
 
-
 We have been discussing different aspects and stages of digital scholarship projects. 
 
-## Broadly, you may have goals around: 
-### Sources (data or other materials you want to analyze)
-* Digital Humanities and Data
-* Acquiring, Cleaning, and Creating Data
-* Identify the differences between unstructured, semi-structured, and structured data.
-* Distinguish between different file types, their definitions, and applications.
-* Apply intellectual property rights to the downloading and sharing of data.
-* Practice different ways of downloading or creating data.
-### Processing (how can these resources be analyzed or prepared for analysis) 
-* The Command Line (Python)
-* Working with Tools (openrefine, Voyant)
-### Presentation (how do you want to share your sources and your findings). 
+In this session we will be discussing copyright, licensing and accessing already existing datasets or other materials. 
 
+If you are lucky enough to find already existing resources or dates sets you may not be able to sue them in the way you would like. we will discuss some of the challenges you may face in this session. 
 
-Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topic, tools, programming, etc.)
+In accessing or creating data sets, there may be ethical issues and/or legal (copyright and licensing issues) issues.
 
-* In this example from Programming historian, you can see how lessons fall into broard phases or categories. 
+We discussed [ethics in this session](https://github.com/SouthernMethodistUniversity/ethics)
 
+# Access
+Accessing already existing datasets touches on issues of licensing and copyright.
 
-## categories 
-
-[![tasks](https://github.com/SouthernMethodistUniversity/ecology/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
-Your goals and your constraints (limitations of time, money etc.) will dictate your choices (tools etc.)
+[Data Sources: Overview guide](https://guides.smu.edu/data) 
 
 
 
 -----
 
-Session Adapted from  [tbd]
+Session partially adpated from  [Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 

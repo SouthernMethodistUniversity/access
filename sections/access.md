@@ -1,16 +1,6 @@
 [<<< Previous] | [Next >>>]  
 
 
-In accessing or creating data sets, there may be ethical issues and/or legal (copyright and licensing issues) issues.
-
-We discussed [ethics in this session](https://github.com/SouthernMethodistUniversity/ethics)
-
-# Access
-Accessing already existing dataset touches on issues of licensing and copyright.
-
-[Data Sources: Overview guide](https://guides.smu.edu/data) 
-
-Issues around licensing and copyright.
 
 ## Activity
 If you have a specific dataset or [database](https://guides.smu.edu/az.php) in mind, we can discuss those.
@@ -23,6 +13,11 @@ Is it mean to be human readable (individual downloads only) or are you allowed t
 
 [HathiTrust Digital Library Datasets](https://www.hathitrust.org/datasets)
 [HathiTrust Digital Library Datasets](https://www.hathitrust.org/data)
+[What do they mean by non-comsumptive use?](https://www.hathitrust.org/htrc_ncup)
+[Explanation of non-consumptive use](https://blogs.harvard.edu/copyrightosc/2017/02/24/)
+
+[Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/) 
+[Corpus of Contemporary American English (COCA) copyright](https://corpus.byu.edu/copyright.asp) 
 
 [Selected Datasets: A New Library of Congress Collection](https://blogs.loc.gov/thesignal/2020/06/selected-datasets-a-new-library-of-congress-collection/?loclr=eadpb)
 
