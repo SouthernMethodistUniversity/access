@@ -1,4 +1,4 @@
-[<<< Previous] | [Next >>>]  
+[<<< Previous]((https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
 
 # Copyright
 
@@ -43,7 +43,7 @@ See examples of usage restrictions in the [licenses of ARTstor](https://www-arts
 
 # Copyright Permissions Workflow 
  licensing, copyright, and fair use all together in a workflow diagram for determining when to seek permission to use a copyrighted work.
-[![tasks](https://github.com/SouthernMethodistUniversity/ecology/blob/master/images/phlessons.PNG)]
+[![tasks](https://github.com/SouthernMethodistUniversity/access/blob/master/images/CPW.jpg)]
  
 
 # Creative Commons 
@@ -53,6 +53,6 @@ See examples of usage restrictions in the [licenses of ARTstor](https://www-arts
 [Policy, Practice, and Law](https://guide.dhcuration.org/contents/policy-practice-and-law/)
 
 
-[<<< Previous] | [Next >>>]
+[<<< Previous]((https://github.com/SouthernMethodistUniversity/access) | [Next >>>](access.md)  
 -----
-[Return to introduction]
+[Return to introduction](https://github.com/SouthernMethodistUniversity/access)

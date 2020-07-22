@@ -1,4 +1,4 @@
-[<<< Previous] | [Next >>>]  
+[<<< Previous](copyright.md) | [Next >>>](social.md)  
 
 
 
@@ -22,6 +22,6 @@ Is it mean to be human readable (individual downloads only) or are you allowed t
 [Selected Datasets: A New Library of Congress Collection](https://blogs.loc.gov/thesignal/2020/06/selected-datasets-a-new-library-of-congress-collection/?loclr=eadpb)
 
 
-[<<< Previous] | [Next >>>]
+[<<< Previous](copyright.md) | [Next >>>](social.md)  
 -----
-[Return to introduction]
+[Return to introduction](https://github.com/SouthernMethodistUniversity/access)

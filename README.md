@@ -18,6 +18,20 @@ Accessing already existing datasets touches on issues of licensing and copyright
 
 
 
+[Next >>>](sections/copyright.md)  
+----
+
+What you will find in this Repository
+
+-----
+
+[Copyright](sections/copyright.md)  
+
+[Access](sections/access.md)
+
+[Social Media](sections/socia.md)  
+
+
 -----
 
 Session partially adpated from  [Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0).
