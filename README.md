@@ -1,21 +1,18 @@
 
 # Digital Projects and Research 
 
-We have been discussing different aspects and stages of digital scholarship projects. 
+We have been discussing different aspects and stages of digital scholarship projects.  In this session we will be discussing issues related to obtaining and using data sources for your project. 
+* In accessing or creating data sets, there are ethical issues and legal (copyright and licensing issues) issues. 
+We will be discussing:
+* copyright and licensing as it relates to accessing already existing datasets 
+* Accessibility and access
+* as well as related topics of ethics, consent and power in the creation or repurposing of already existing data sets 
 
-In this session we will be discussing copyright, licensing and accessing already existing datasets or other materials. 
+## Required before session
+**Read the following post before this session.**
+* [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/) or (https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/)
 
-If you are lucky enough to find already existing resources or dates sets you may not be able to sue them in the way you would like. we will discuss some of the challenges you may face in this session. 
-
-In accessing or creating data sets, there may be ethical issues and/or legal (copyright and licensing issues) issues.
-
-We discussed [ethics in this session](https://github.com/SouthernMethodistUniversity/ethics)
-
-# Access
-Accessing already existing datasets touches on issues of licensing and copyright.
-
-[Data Sources: Overview guide](https://guides.smu.edu/data) 
-
+* [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=)
 
 
 [Next >>>](sections/copyright.md)  
@@ -29,12 +26,26 @@ What you will find in this Repository
 
 [Access](sections/access.md)
 
-[Social Media](sections/socia.md)  
+[Ethics](sections/ethics.md)
+
+[Accessibility in your work](sections/accessibility.md)
+
+[Direct Impacts on People through Data Collection](sections/people.md)
+
+[Politics of Knowledge Production and Categorization](sections/power.md)
+
+[Social, Political, and Economic Impacts of Projects or Research](sections/socpol.md)
+
+
+[Continue](sections/continue.md)  
 
 
 -----
 
-Session partially adpated from  [Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0).
+Session partially adpated from:
+[Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0). 
+&
+[DHRI@CUNY Session on ethics](https://github.com/DHRI-Curriculum/ethics)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 

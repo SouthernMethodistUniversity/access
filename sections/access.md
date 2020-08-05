@@ -1,6 +1,7 @@
-[<<< Previous](copyright.md) | [Next >>>](social.md)  
+[<<< Previous](copyright.md) | [Next >>>](ethics.md)  
 
-
+# Accessing already existing datasets touches on issues of licensing and copyright.
+* [Data Sources: Overview guide](https://guides.smu.edu/data) 
 
 ## Activity
 * If you have a specific dataset or [database](https://guides.smu.edu/az.php) in mind, we can discuss those.
@@ -12,7 +13,7 @@
 * [JSTOR Data for Research (DfR)](https://guides.smu.edu/c.php?g=934689&p=6737385)
 
 * [HathiTrust Digital Library Datasets](https://www.hathitrust.org/datasets)
-* [HathiTrust Digital Library Datasets](https://www.hathitrust.org/data)
+* [HathiTrust Digital Library: Data Availability and APIs](https://www.hathitrust.org/data)
 * [What do they mean by non-comsumptive use?](https://www.hathitrust.org/htrc_ncup)
 * [Explanation of non-consumptive use](https://blogs.harvard.edu/copyrightosc/2017/02/24/)
 
@@ -21,7 +22,14 @@
 
 * [Selected Datasets: A New Library of Congress Collection](https://blogs.loc.gov/thesignal/2020/06/selected-datasets-a-new-library-of-congress-collection/?loclr=eadpb)
 
+## Legal Literacy
+* NEH Legal Literacies for Text Data Mining (LLTDM)
+[#BuildingLLTDM](https://twitter.com/hashtag/BuildingLLTDM?src=hashtag_click)
 
-[<<< Previous](copyright.md) | [Next >>>](social.md)  
+* [NEH "Legal Literacies for Text Data Mining" workshop video playlists of all material](https://www.youtube.com/playlist?list=PLwIeopDkK90-AjsS_aHDwf0YtFzLlL04p)
+
+* [Forthcoming OER](https://buildinglltdm.org/about/open-educational-resource/)
+
+[<<< Previous](copyright.md) | [Next >>>](ethics.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)

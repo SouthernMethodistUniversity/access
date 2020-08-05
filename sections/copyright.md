@@ -26,8 +26,7 @@ Cultural heritage institutions like archives and museums can require that you as
 * What is stated at the collection level?
  * What is stated at an item level? 
 
-
-# licensing Restrictions
+# Licensing Restrictions
 If you’re using digital resources that were acquired or made available under a license, then **your use is governed by the license and not by copyright.** For example, SMU patrons students using ARTstor are governed by the license that SMU Libraries signed in order to make [ARTstor](https://login.proxy.libraries.smu.edu/login?url=https://library.artstor.org) images available to the SMU community. 
 
 See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
@@ -45,7 +44,6 @@ See examples of usage restrictions in the [licenses of ARTstor](https://www-arts
  licensing, copyright, and fair use all together in a workflow diagram for determining when to seek permission to use a copyrighted work.
 [![tasks](https://github.com/SouthernMethodistUniversity/access/blob/master/images/CPW.jpg)]
  
-
 # Creative Commons 
 [What is a Creative Commons license?](https://creativecommons.org/share-your-work/)
 
