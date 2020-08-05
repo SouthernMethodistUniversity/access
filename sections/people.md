@@ -1,4 +1,4 @@
-[<<< Previous](accessibility.md) | [Next >>>](people.md)
+[<<< Previous](accessibility.md) | [Next >>>](power.md)
 
 # Level of Impact I: Direct Impacts on People through Data Collection
 
@@ -75,6 +75,6 @@ Discuss with your table, then share as a group.
 Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)   
 
 
-[<<< Previous](accessibility.md) | [Next >>>](people.md)
+[<<< Previous](accessibility.md) | [Next >>>](power.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
