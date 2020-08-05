@@ -22,7 +22,7 @@ The collections of rights are typically as follows:
  
 Cultural heritage institutions like archives and museums can require that you ask them for permission to re-use or re-publish copyrighted works in their collections, but if they create a scanned reproduction of something that is in the public domain, that scan won’t be copyrightable.
 
-## What copyright claims are on SMU Digital Collections?] (https://www.smu.edu/Libraries/digitalcollections) 
+## What copyright claims are on SMU Digital Collections?](https://www.smu.edu/Libraries/digitalcollections) 
 * What is stated at the collection level?
  * What is stated at an item level? 
 
