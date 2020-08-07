@@ -14,7 +14,7 @@
 
 * [HathiTrust Digital Library Datasets](https://www.hathitrust.org/datasets)
 * [HathiTrust Digital Library: Data Availability and APIs](https://www.hathitrust.org/data)
-* [What do they mean by non-comsumptive use?](https://www.hathitrust.org/htrc_ncup)
+* [What do they mean by non-consumptive use?](https://www.hathitrust.org/htrc_ncup)
 * [Explanation of non-consumptive use](https://blogs.harvard.edu/copyrightosc/2017/02/24/)
 
 * [Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/) 
