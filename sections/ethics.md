@@ -1,4 +1,4 @@
-[<<< Previous](access.md) | [Next >>>](accessibility.md)  
+[<<< Previous](access.md) | [Next >>>](people.md)
 
 # Ethics
 The approach of this discussion is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, we will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.
@@ -44,10 +44,6 @@ Think about the digital project or research you are or will be working on. Pair 
 2. In 1 minute each, what is the *design* of your project—*how* will you do this?
 3. In relation to each of your projects' purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?
 
-## Consent 
-
-## Consequences
-
-[<<< Previous](access.md) | [Next >>>](accessibility.md)  
+[<<< Previous](access.md) | [Next >>>](people.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
