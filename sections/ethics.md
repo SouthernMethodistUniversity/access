@@ -37,6 +37,25 @@ We are scholars, so first things first: understanding any institutional complian
 * Belmont Report
 * IRB
 
+## Thinking in terms of "levels of impact"
+
+An "impact approach" foregrounds:
+
+> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
+
+> Drawing from Markham (2016), let's focus on three levels of impact:  
+1. Direct impacts on people
+2. Ramifications of (re)producing categories
+3. Social, political and economic effects  
+
+Additionally, this workshop will address the range of impact, or the range of accessibility to your work:  
+
+- to people with disabilities,
+- to people in different countries or who speak different languages, and
+- in terms of cost and proprietary accessibility.
+
+Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
+
 ## Activity  
 Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
