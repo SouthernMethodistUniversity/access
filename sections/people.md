@@ -35,6 +35,9 @@ A working definition of the “distance principle”:
 
 Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
+> Anonoymous data Vs de-identifed 
+ADD DEFINitions
+[These are the actual locations for millions of Americans.]https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html 
 ## “Public” data
 
 Some questions to consider:  
