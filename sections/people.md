@@ -3,7 +3,7 @@
 # Level of Impact I: Direct Impacts on People through Data Collection
 
 ## Data is people!
-* "Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."] (https://datadoubles.org/2018/05/01/what-is-a-data-double/)
+* ["Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems](https://datadoubles.org/2018/05/01/what-is-a-data-double/)
     * [Data doubles project](https://datadoubles.org/project/)
     
 ## Direct effects on people
