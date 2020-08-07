@@ -3,8 +3,9 @@
 # Level of Impact I: Direct Impacts on People through Data Collection
 
 ## Data is people!
-* "Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."] https://datadoubles.org/2018/05/01/what-is-a-data-double/)
-* [Data doubles project](https://datadoubles.org/project/)
+* "Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."] (https://datadoubles.org/2018/05/01/what-is-a-data-double/)
+    * [Data doubles project](https://datadoubles.org/project/)
+    
 ## Direct effects on people
 
 > "At the most basic level of an impact approach, we might ask **how our methods of data collection impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
