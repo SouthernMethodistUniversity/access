@@ -41,11 +41,10 @@ What you will find in this Repository
 
 
 -----
+Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss
 
-Session partially adpated from:
-[Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0). 
-&
-[DHRI@CUNY Session on ethics](https://github.com/DHRI-Curriculum/ethics)
+Session partially adpated from:[Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0). & [DHRI@CUNY Session on ethics](https://github.com/DHRI-Curriculum/ethics)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
