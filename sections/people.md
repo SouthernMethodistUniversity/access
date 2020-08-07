@@ -70,17 +70,13 @@ Source: [the 2012 Ethical Decision-Making and Internet Research report by the th
 
 
 
-## Activity  
-
-Let's analyze and discuss a case study.  
+## A case study.  
 
 Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036671) and [their summary of it for the New York Times](http://www.nytimes.com/2012/06/03/opinion/sunday/the-science-of-gaydar.html), and discuss:
 
 * What kinds of “human subjects” are involved in this study?
 * Is a social media photo of oneself an extension of the self? 
 * Does their methodology raise any ethical concerns?
-
-Discuss with your table, then share as a group.  
 
 Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)   
 
