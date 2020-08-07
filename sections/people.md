@@ -37,9 +37,14 @@ A working definition of the “distance principle”:
 
 Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
-> Anonoymous data Vs de-identifed 
-ADD DEFINitions
-[These are the actual locations for millions of Americans.]https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html 
+> Data 
+* What is the difference between: De-identified data, anonymized data, re-identified data? 
+    * [Definitions fro UCSF](https://irb.ucsf.edu/definitions)
+* [Researchers spotlight the lie of ‘anonymous’ data](https://techcrunch.com/2019/07/24/researchers-spotlight-the-lie-of-anonymous-data/)
+    * What would metadata allow you to do?
+* [These are the actual locations for millions of Americans.]https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html 
+* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+
 ## “Public” data
 
 Some questions to consider:  
