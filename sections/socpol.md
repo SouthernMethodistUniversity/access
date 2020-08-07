@@ -64,8 +64,7 @@ Think about the digital project or research you are or will be working on. Pair 
 [Facebook needs to share more with researchers](https://www.nature.com/articles/d41586-020-00828-5)
 [Additional context](https://www.axios.com/facebook-researchers-data-social-science-one-62dc5018-21d7-49f6-8149-ff421e611dfc.html)
 
-* "It was an episode that frustrated employees who wanted to reduce racial bias on the platform but one that they said did not surprise them. Facebook management has repeatedly ignored and suppressed internal research showing racial bias in the way that the platform removes content, according to eight current and former employees, all of whom requested anonymity to discuss internal Facebook business." 
-(https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746)
+* "It was an episode that frustrated employees who wanted to reduce racial bias on the platform but one that they said did not surprise them. Facebook management has repeatedly ignored and suppressed internal research showing racial bias in the way that the platform removes content, according to eight current and former employees, all of whom requested anonymity to discuss internal Facebook business."[Facebook ignored racial bias research, employees say](https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746)
 
 [<<< Previous](power.md) | [Next >>>](accessibility.md)
 -----
