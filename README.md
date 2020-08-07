@@ -28,13 +28,13 @@ What you will find in this Repository
 
 [Ethics](sections/ethics.md)
 
-[Accessibility in your work](sections/accessibility.md)
-
 [Direct Impacts on People through Data Collection](sections/people.md)
 
 [Politics of Knowledge Production and Categorization](sections/power.md)
 
 [Social, Political, and Economic Impacts of Projects or Research](sections/socpol.md)
+
+[Accessibility in your work](sections/accessibility.md)
 
 
 [Continue](sections/continue.md)  
