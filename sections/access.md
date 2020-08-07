@@ -9,7 +9,7 @@
 * What data can you access? What datasets can you access? 
 * Is it meant to be human readable (individual downloads only) or are you allowed to do bulk downloads?  Is the date already assembled into datasets? What restrictions or permissions are already in place? What are you allowed to do with those datasets?
 
-###Examples of data sets
+### Examples of data sets
 * JSTOR
     * [JSTOR Data for Research (DfR)](https://guides.smu.edu/c.php?g=934689&p=6737385)
 * HathiTrust
