@@ -2,7 +2,7 @@
 # Digital projects and research 
 
 We have been discussing different aspects and stages of digital scholarship projects. In this session we will be discussing issues related to obtaining and using data sources for your project. 
-* In accessing or creating data sets, there are ethical issues and legal (copyright and licensing issues) issues. 
+* In accessing or creating data sets, there are ethical issues and legal (copyright and licensing) issues. 
 * We will be discussing:
     * Copyright and licensing as it relates to accessing already existing datasets 
     * Accessibility and access
