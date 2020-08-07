@@ -39,11 +39,9 @@ Image source: A still image from ["A real person, a lot like you"](https://www.y
 
 > Data 
 * What is the difference between: De-identified data, anonymized data, re-identified data? 
-    * [Definitions fro UCSF](https://irb.ucsf.edu/definitions)
+    * [Definitions from UCSF](https://irb.ucsf.edu/definitions)
 * [Researchers spotlight the lie of ‘anonymous’ data](https://techcrunch.com/2019/07/24/researchers-spotlight-the-lie-of-anonymous-data/)
-    * What would metadata allow you to do?
-* [These are the actual locations for millions of Americans.]https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html 
-* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+    * What does access to metadata allow you to do? ...[These are the actual locations for millions of Americans.](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) 
 
 ## “Public” data
 
@@ -56,6 +54,8 @@ Some questions to consider:
 - How might we (intentionally or inadvertently) share data?
 
 For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
+
+* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
 ## The question of personhood
 
