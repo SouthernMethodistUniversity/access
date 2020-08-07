@@ -56,8 +56,8 @@ Additionally, this workshop will address the range of impact, or the range of ac
 
 Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
 
-## Activity  
-Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
+## Discussion prompt
+* Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
 1. In 1 minute each, what is the *purpose* of your project—what does it *aim* to do?
 2. In 1 minute each, what is the *design* of your project—*how* will you do this?
