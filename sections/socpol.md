@@ -1,4 +1,4 @@
-[<<< Previous](power.md) | [Next >>>](continue.md)
+[<<< Previous](power.md) | [Next >>>](accessibility.md)
 
 # Level of Impact III: Social, Political, and Economic Impacts of Projects or Research  
 
@@ -92,6 +92,6 @@ Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink e
 * "It was an episode that frustrated employees who wanted to reduce racial bias on the platform but one that they said did not surprise them. Facebook management has repeatedly ignored and suppressed internal research showing racial bias in the way that the platform removes content, according to eight current and former employees, all of whom requested anonymity to discuss internal Facebook business." 
 (https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746)
 
-[<<< Previous](power.md) | [Next >>>](continue.md)
+[<<< Previous](power.md) | [Next >>>](accessibility.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
