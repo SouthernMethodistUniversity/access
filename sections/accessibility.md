@@ -1,4 +1,4 @@
-[<<< Previous](ethics.md) | [Next >>>](people.md)
+[<<< Previous](socpol.md) | [Next >>>](continue.md)
 
 # Range of impact: accessibility in your work
 
@@ -82,8 +82,7 @@ Think about the digital project or research you are or will be working on. Pair 
 - Will it be accessible in different languages?  
 - Will it be accessible to people with visual, hearing, mobility, or other physical, sensory, or cognitive disabilities?
 
-Share as a class.  
 
-[<<< Previous](ethics.md) | [Next >>>](people.md)
+[<<< Previous](socpol.md) | [Next >>>](continue.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
