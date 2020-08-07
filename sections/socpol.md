@@ -53,31 +53,6 @@ Think about the digital project or research you are or will be working on. Pair 
 * How could your work cause changes to or justify social, economic or political discourses?  
 * Will your work be used for profit, for who?  
 
-Share as a class.    
-
-# Data is people!
-* "Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."](https://datadoubles.org/2018/05/01/what-is-a-data-double/)
-* [Data doubles project](https://datadoubles.org/project/)
-
-## Thinking in terms of "levels of impact"
-
-An "impact approach" foregrounds:
-
-> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
-
-> Drawing from Markham (2016), let's focus on three levels of impact:  
-1. Direct impacts on people
-2. Ramifications of (re)producing categories
-3. Social, political and economic effects  
-
-Additionally, this workshop will address the range of impact, or the range of accessibility to your work:  
-
-- to people with disabilities,
-- to people in different countries or who speak different languages, and
-- in terms of cost and proprietary accessibility.
-
-Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
-
 
 ## Social Media
 
