@@ -34,8 +34,8 @@ Thinking through how ethical ideas and practices, or lack thereof, are situated 
 
 We are scholars, so first things first: understanding any institutional compliance requirements you may need to fullfil to be permitted to do your project or research. Note that this section is primarily focused on institutional compliance in the United States, and emphasizes the perspective of social science researchers, who most frequently contend with Institutional Review Boards (IRBs). While humanities researchers often do not have to engage with IRB when working within their discipline, these considerations may also become relevant when creating certain kinds of digital projects.
 * [SMU Research Compliance](https://www.smu.edu/Research/ResearchServices/ResearchCompliance)
-* Belmont Report
-* IRB
+* [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)
+* [IRB](https://www.hhs.gov/ohrp/irbs-and-assurances.html)
 
 ## Thinking in terms of "levels of impact"
 
