@@ -17,8 +17,8 @@ The collections of rights are typically as follows:
     * the right to object to any distortion or modification of a work, or other derogatory action in relation to a work, which would be prejudicial to the author's honour or reputation (sometimes called the right of integrity).
 
 
-[SMU Libraries Copyright Support](https://www.smu.edu/libraries/fondren/services/copyright)
-[Cornell’s grid on when things pass into the public domain.](https://copyright.cornell.edu/publicdomain) 
+* [SMU Libraries Copyright Support](https://www.smu.edu/libraries/fondren/services/copyright)
+* [Cornell’s grid on when things pass into the public domain.](https://copyright.cornell.edu/publicdomain) 
  
 Cultural heritage institutions like archives and museums can require that you ask them for permission to re-use or re-publish copyrighted works in their collections, but if they create a scanned reproduction of something that is in the public domain, that scan won’t be copyrightable.
 
