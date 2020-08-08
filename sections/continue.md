@@ -126,7 +126,7 @@ Noble, Safiya Umoja, *The Intersectional Internet: Race, Sex, Class, and Culture
 * [Chun, Wendy Hui Kyong, Richard Grusin, Patrick Jagoda, and Rita Raley, "The Dark Side of the Digital Humanities," in *Debates in the Digital Humanities*, ed. Matt Gold, 2016](http://dhdebates.gc.cuny.edu/debates/text/89)  
 * [Fiormonte, Domenico, "Digital Humanities and the Geopolitics of Knowledge," 2017](https://www.digitalstudies.org/article/10.16995/dscn.274/)  
 * [Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library with the GC Digital Fellows](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
-Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Intersectional Feminism and Digital Humanities*, 2018  
+* Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Intersectional Feminism and Digital Humanities*, 2018  
 * [Losh, Elizabeth, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
 * [McPherson, Tara, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
 
@@ -150,8 +150,8 @@ Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Inte
 ### Some examples of anti-colonial digital projects and research
 
 * [Design for Diversity project](http://dsg.neu.edu/research/design-for-diversity/about/)  
-Duarte, Marisa Elena, *Network Sovereignty: Building the Internet across Indian Country*, 2017  
-Haas, Angela, “Wampum as Hypertext,” 2007  
+* Duarte, Marisa Elena, *Network Sovereignty: Building the Internet across Indian Country*, 2017 
+* Haas, Angela, “Wampum as Hypertext,” 2007  
 * [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
 * [Native-Land.ca (mapping project)](https://native-land.ca/)  
 * [Senier, Siobhan, “Indigenizing Wikipedia,” 2015](http://epress.trincoll.edu/webwriting/chapter/senier/)  
