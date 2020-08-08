@@ -1,10 +1,10 @@
 [<<< Previous](people.md) | [Next >>>](socpol.md)
 
-# Level of Impact II: Politics of Knowledge Production and Categorization  
+# Level of Impact II: Politics of knowledge production and categorization  
 
 ## Politics of knowledge production
 
-> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used—or might be used—**to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
+> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
 ![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../images/power.png)  
 Image source: Created by author in MS Word.  
@@ -27,11 +27,11 @@ Some key concepts:
 **"Policing the crisis"** (Stuart Hall)  
 * "Policing the crisis" refers to the unnatural process by which certain actions (by certain people) become and continue to be understood, reported, policed, and sanctioned as a type of "crime." The police, the judicial system, and mainstream media "are actively and continuously part of [this] whole process" (Stuart Hall et al., *Policing the Crisis*, 2013 [1978], page 54). Hall et al. focus on the emergence of "mugging" and its attendant social panic in Britain, beginning in the early 1970s.  
 
-For further readings, see the section "Key works (among many more!) on the politics of knowledge production and forms of knowledge" on the [Continue page](continu.md) at the end of this workshop.
+For further readings, see the section "Key works (among many more!) on the politics of knowledge production and forms of knowledge" on the [Continue page](continue.md) at the end of this workshop.
 
-An example:
+### An example:
 
-The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people - and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
+The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people -- and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
 
 So then when, for example, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on "crime" data (e.g. the number of arrests or convictions in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that lead to the policing and incarcerating of Black people at a much higher rate.
 
@@ -39,7 +39,7 @@ Further reading:
 
 [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
 
-## Ramifications of (re)producing categories
+## The ramifications of (re)producing categories
 
 Decisions on the categories and boundaries scholars use shape our:
 
@@ -48,19 +48,19 @@ Decisions on the categories and boundaries scholars use shape our:
 - Maps
 - Algorithms
 
-Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places etc. are identified and grouped together, and also what is searchable, findable, and foregrounded.
+Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places, etc., are identified and grouped together, and also what is searchable, findable, and foregrounded.
 
 ![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](../images/wiki.png)  
 
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
-## Bias in, bias out: systems of oppression and inputting human bias
+## Bias in, bias out: Systems of oppression and inputting human bias
 
-**Human beings** are making decisions that inform how these groupings are being made, and human "beliefs are embedded in the design and concept of technological systems" (Broussard 2018, page 67). Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints—personally, socially, and historically.  
+**Human beings** are making decisions that inform how these groupings are being made, and human "beliefs are embedded in the design and concept of technological systems" (Broussard, 2018, page 67). Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints—personally, socially, and historically.  
 
-The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](glossary.md) for definitions). These oppressive systems effect—sometimes intentionally, sometimes not—the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
+The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](glossary.md) for definitions). These oppressive systems effect — sometimes intentionally, sometimes not — the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
 
-> "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them" (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
+> "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them," (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
 > "Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public." (Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2; see also Meredith Broussard, *Artificial Unintelligence: How Computers Misunderstand the World*, chapter six, 2018)  
 
@@ -78,13 +78,13 @@ Image source: Created by Kelsey Chatlosh in MS PowerPoint.
 
 A question to consider:
 
-Can categorical hierarchies and existing bias be resisted through digital projects? If such resistance is possible, how can it be achieved?
+* Can categorical hierarchies and existing bias be resisted through digital projects? If such resistance is possible, how can it be achieved?
 
 As scholars, we have a responsibility to think critically about how we do or do not reproduce existing biases in the canons we reference, the data we use, and the conclusions we reach. Some projects that have tried to produce new, less-biased representations include: 
 
 - [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/) 
--[#BLM syllabus](http://www.blacklivesmattersyllabus.com/)
--[Ferguson syllabus](https://sociologistsforjustice.org/ferguson-syllabus/)
+- [#BLM syllabus](http://www.blacklivesmattersyllabus.com/)
+- [Ferguson syllabus](https://sociologistsforjustice.org/ferguson-syllabus/)
 - [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
 - [Native-Land.ca (mapping project)](https://native-land.ca/)  
 - [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
