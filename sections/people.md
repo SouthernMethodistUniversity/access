@@ -1,16 +1,16 @@
 [<<< Previous](accessibility.md) | [Next >>>](power.md)
 
-# Level of Impact I: Direct Impacts on People through Data Collection
+# Level of Impact I: Direct impacts on people through data collection
 
 ## Data is people!
-* ["Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems](https://datadoubles.org/2018/05/01/what-is-a-data-double/)
+* ["Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems.](https://datadoubles.org/2018/05/01/what-is-a-data-double/)
     * [Data doubles project](https://datadoubles.org/project/)
     
-## Direct effects on people
+### Direct effects on people
 
 > "At the most basic level of an impact approach, we might ask **how our methods of data collection impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
-## What counts as "human"? What data should be off limits?
+### What counts as "human"? What data should be off limits?
  
 Some commonly blurred definitions, according to the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee:  
 
@@ -28,7 +28,7 @@ Some commonly blurred definitions, according to the 2012 Ethical Decision-Making
 
 Source: [the 2012 Ethical Decision-Making and Internet Research report by the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf), emphases added    
 
-## Human subjects & the “distance principle”
+### Human subjects & the “distance principle”
 
 A working definition of the “distance principle”:
 
@@ -38,13 +38,13 @@ A working definition of the “distance principle”:
 
 Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
-> Data 
+## Data 
 * What is the difference between: De-identified data, anonymized data, re-identified data? 
     * [Definitions from UCSF](https://irb.ucsf.edu/definitions)
 * [Researchers spotlight the lie of ‘anonymous’ data](https://techcrunch.com/2019/07/24/researchers-spotlight-the-lie-of-anonymous-data/)
     * What does access to metadata allow you to do? ...[These are the actual locations for millions of Americans.](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) 
 
-## “Public” data
+### “Public” data
 
 Some questions to consider:  
 
@@ -56,22 +56,20 @@ Some questions to consider:
 
 For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
-* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world.](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
-## The question of personhood
+### The question of personhood
 
 Some questions to consider:  
 
-> "Is an avatar a person?"  
-> "Is one’s digital information [e.g. photos, videos, audio, social media posts] an extension of the self?"  
-> "Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*  
-> "Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm?"     
+- "Is an avatar a person?"  
+- "Is one’s digital information [e.g. photos, videos, audio, social media posts] an extension of the self?"  
+- "Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*  
+- "Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm?"     
 
 Source: [the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)  
 
-
-
-## A case study.  
+## A case study  
 
 Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036671) and [their summary of it for the New York Times](http://www.nytimes.com/2012/06/03/opinion/sunday/the-science-of-gaydar.html), and discuss:
 
