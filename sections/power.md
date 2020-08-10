@@ -87,7 +87,8 @@ As scholars, we have a responsibility to think critically about how we do or do 
 - [Ferguson syllabus](https://sociologistsforjustice.org/ferguson-syllabus/)
 - [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
 - [Native-Land.ca (mapping project)](https://native-land.ca/)  
-- [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
+- [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)
+- [Bearing Witness: The Covid-19 & Inequality History Documentation Project](https://bearingwitness.github.io/)
 
 ## A case study.  
 
