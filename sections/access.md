@@ -12,13 +12,13 @@
 ### Examples of data sets
 * JSTOR
     * [JSTOR Data for Research (DfR)](https://guides.smu.edu/c.php?g=934689&p=6737385)
-    * [*JSTOR DfR: creating a dataset (account creation required)*](https://www.jstor.org/dfr/about/creating-datasets_)
+    * [*JSTOR DfR: creating a dataset (account creation required)*](https://www.jstor.org/dfr/about/creating-datasets)
 * HathiTrust
     * [HathiTrust Digital Library Datasets](https://www.hathitrust.org/datasets)
     * [HathiTrust Digital Library: Data Availability and APIs](https://www.hathitrust.org/data)
     * [What do they mean by non-consumptive use?](https://www.hathitrust.org/htrc_ncup)
     * [Explanation of non-consumptive use](https://blogs.harvard.edu/copyrightosc/2017/02/24/)
-    * [*HathiTrust Research Center Analytics (HTRC) Analytics(account creation required*](https://analytics.hathitrust.org/)
+    * [*HathiTrust Research Center Analytics (HTRC) Analytics(account creation required)*](https://analytics.hathitrust.org/)
 
 * Corpus of Contemporary American English (COCA)
     * [Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/) 
