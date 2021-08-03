@@ -66,7 +66,7 @@ Accessing social media data can be a complicated mix of licensing, permission an
 
 * "It was an episode that frustrated employees who wanted to reduce racial bias on the platform but one that they said did not surprise them. Facebook management has repeatedly ignored and suppressed internal research showing racial bias in the way that the platform removes content, according to eight current and former employees, all of whom requested anonymity to discuss internal Facebook business." [Facebook ignored racial bias research, employees say.](https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746)
 
-We also touched on this in the Data session[Ethical issues around large data sets.] (https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md#current-events-ethical-issues-around-large-data-sets)
+We also touched on this in the Data session [Ethical issues around large data sets.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md#current-events-ethical-issues-around-large-data-sets)
 
 [<<< Previous](power.md) | [Next >>>](accessibility.md)
 -----

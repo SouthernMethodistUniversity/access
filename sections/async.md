@@ -4,7 +4,7 @@
 
 ## :white_check_mark: **Read the following post before this session.**
 
-### levels of impact"
+### levels of impact
 [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
