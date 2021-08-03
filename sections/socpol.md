@@ -1,4 +1,4 @@
-[<<< Previous](power.md) | [Next >>>](accessibility.md)
+[<<< Previous](power.md) | [Next >>>](blackbox.md)
 
 # Level of Impact III: Social, political, and economic impacts of projects or research  
 
@@ -68,6 +68,7 @@ Accessing social media data can be a complicated mix of licensing, permission an
 
 We also touched on this in the Data session [Ethical issues around large data sets.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md#current-events-ethical-issues-around-large-data-sets)
 
-[<<< Previous](power.md) | [Next >>>](accessibility.md)
+[<<< Previous](power.md) | [Next >>>](blackbox.md)
+
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)

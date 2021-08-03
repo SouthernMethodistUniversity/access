@@ -1,4 +1,4 @@
-[<<< Previous](socpol.md) | [Next >>>](async.md)
+[<<< Previous](blackbox.md) | [Next >>>](async.md)
 
 # Range of impact: Accessibility in your work
 
@@ -84,7 +84,7 @@ Think about the digital project or research you are or will be working on. Pair 
 - Will it be accessible in different languages?  
 - Will it be accessible to people with visual, hearing, mobility, or other physical, sensory, or cognitive disabilities?
 
-[<<< Previous](socpol.md) | [Next >>>](async.md)
+[<<< Previous](blackbox.md) | [Next >>>](async.md)
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)
