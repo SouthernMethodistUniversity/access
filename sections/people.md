@@ -1,4 +1,4 @@
-[<<< Previous](accessibility.md) | [Next >>>](power.md)
+[<<< Previous](ethics.md) | [Next >>>](power.md)
 
 # Level of Impact I: Direct impacts on people through data collection
 
@@ -26,7 +26,7 @@ Some commonly blurred definitions, according to the 2012 Ethical Decision-Making
 
 > "Is an avatar a person? Is one’s digital information an extension of the self? ... Can we assume a person is wholly removed from large data pools? ... there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable ... **Does the connection between one’s online data and his or her physical person enable psychological, economic, or physical, harm?** One way of evaluating the extent to which these ethical dilemmas may be hidden is to focus on the way that procedures for data collection or analysis extract data from lived experience."  
 
-Source: [the 2012 Ethical Decision-Making and Internet Research report by the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf), emphases added    
+Source: [Ethical Decision-Making and Internet Research, Ver. 2](http://aoir.org/reports/ethics2.pdf), emphases added    
 
 ### Human subjects & the “distance principle”
 
@@ -34,15 +34,14 @@ A working definition of the “distance principle”:
 
 > "**the extent to which Internet texts or data sets might connect to persons** [even when] the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close" ([Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research), page 10, emphasis added)  
 
-![Image of one person typing on a computer followed by a divisionary line marked 'internet' and then a second person typing on a computer, image drawn by Derek Sivers](../images/realperson.png)  
-
-Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
 ## Data 
 * What is the difference between: De-identified data, anonymized data, re-identified data? 
     * [Definitions from UCSF](https://irb.ucsf.edu/definitions)
 * [Researchers spotlight the lie of ‘anonymous’ data](https://techcrunch.com/2019/07/24/researchers-spotlight-the-lie-of-anonymous-data/)
     * What does access to metadata allow you to do? ...[These are the actual locations for millions of Americans.](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) 
+    * "Law enforcement can and does purchase location data from data brokers, for instance. And while location data companies claim that their data has been de-identified, experts say it’s often possible to re-identify individuals....And it’s not just location data. Facial recognition company Clearview AI’s entire business model is to sell law enforcement agencies access to its facial recognition database, much of which was culled from publicly available photos Clearview scraped from the internet." [Here’s how police can get your data — even if you aren’t suspected of a crime](https://www.vox.com/recode/22565926/police-law-enforcement-data-warrant)
+
 
 ### “Public” data
 
@@ -65,9 +64,8 @@ Some questions to consider:
 - "Is an avatar a person?"  
 - "Is one’s digital information [e.g. photos, videos, audio, social media posts] an extension of the self?"  
 - "Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*  
-- "Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm?"     
-
-Source: [the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)  
+- "Does the connection between one’s online data and their physical person enable psychological, economic, or physical harm?"  Source: [Ethical Decision-Making and Internet Research, Ver. 2.0 ](http://aoir.org/reports/ethics2.pdf)  
+- [AoIR Ethics Working Committee Guidelines and Reports](https://aoir.org/ethics/)
 
 ## A case study  
 
@@ -79,7 +77,7 @@ Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.o
 
 Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)   
 
+[<<< Previous](ethics.md) | [Next >>>](power.md)
 
-[<<< Previous](accessibility.md) | [Next >>>](power.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)

@@ -1,4 +1,4 @@
-[<<< Previous](socpol.md)
+[<<< Previous](async.md)
 
 
 # Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics)
@@ -45,6 +45,8 @@
 * [School for Poetic Computation](http://sfpc.io/)  
 
 ## On internet, social media and "big data" research ethics  
+* [Internet Research Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-internet-research/#)
+
 
 * [Berendt, Bettina, Marco Büchler, and Geoffrey Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015)](http://theoreti.ca/?p=5729)  
 * [Markam, Annette, and Elizabeth Buchanon, “Ethical Concerns in Internet Research,” forthcoming](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research)  
@@ -223,6 +225,6 @@ Please see below a list of key terms and concepts, provided in alphabetical orde
 
 **white supremacy**—white supremacy, or white supremacist racism, refers to: "a system of power based on the supremacy & dominance of 'White' people. 'White' is a political concept created by the European & colonial ruling elite of the 17th & 18th centuries that is revealed in attitudes, behaviors & institutional systems in which white people maintain supremacy over peoples of color" (source: [Shay-Akil, Decolonize ALL The Things, "Race, Ethnicity, & Racism"](https://decolonizeallthethings.com/learning-tools/race-ethnicity-racism/)), and, I'd add, people of color who are perceived as closer to "white"—to a much lesser degree—also maintain forms of supremacy in relation to other people of color in certain contexts (see also definitions of "colorism"). Similar to cis-hetero-patriarchy, forms of such dominance include political and economic power and leadership (including owning or controlling property), moral and intellectual authority, and social priviledge. Again, note that different forms of oppression, based on gender, sexuality, race, class, age, ability, and other categorizations of people, exist always in relation to each other (see Patricia Hill Collins, *Black Feminist Thought*, 1999).   
 
-[<<< Previous](social.md)
+[<<< Previous](async.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)

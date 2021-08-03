@@ -3,12 +3,15 @@
 # Ethics
 The approach of this discussion is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, we will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.
 
-We will discuss: specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: (1) direct impacts on people through data collection; (2) the politics of knowledge production and categorization; and (3) social, political, and economic impacts of projects or research (drawing from Markham 2016 in [Resources](sections/resources.md));
-- Critically consider questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
+We will discuss: 
+* specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: 
+* (1) direct impacts on people through data collection; 
+* (2) the politics of knowledge production and categorization; and (3) social, political, and economic impacts of projects or research (Discussing [Markham 2016];
+*  Critically consider questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
 
 ## What are ethics?
 
-For the purposes of this session, I define ethics as the moral principles that an individual aims to follow in practice to the best of their ability, research, and foresight.
+For the purposes of this session, we define ethics as the moral principles that an individual aims to follow in practice to the best of their ability, research, and foresight.
 
 Ethics are not just a list of universal standards that can be found in a research methods textbook, or the entirety of the Institutional Review Board's protocols, or that which is legal under the current political regime where one is located. Ethics are about being caring and sensitive towards the ways in which what an individual does and does not do affects other people, foremost, and perhaps also ecosystems, and trying one's best to not only not cause harm to them but ideally also actively do good (or even take an activist approach!).
 
@@ -22,13 +25,13 @@ Projects or research that engage with the digital — i.e., that examine, use, o
 
 **Situated ethics** refers to the notion that a person's understandings of and commitments to ethics or morality are greatly linked to their own experiences, positionalities, and political orientations, as well as the particular context in which that person is putting such ethics into practice (see Helen Simons and Robin Usher, *Situated Ethics in Educational Research*, 2000). "Situated ethics" draws on Donna Haraway's concept of *Situated Knowledges* (1988), which argues that all ideas, whether in science, the humanities, or personal convictions, are created from and are inherently representative of the conceptualizer's particular situated standpoint.
 
-As Haraway eloquently argues:
-
-> "I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges." (Donna Haraway, *Situated Knowledges,* 1988, page 581)  
+"I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges." (Donna Haraway, *Situated Knowledges,* 1988, page 581)  
 
 Situated ethics thus argues that ethical concerns will vary amongst people, disciplines, projects, tools, and contexts depending on the particular situated perspective of that person, group, or project.  
 
 Thinking through how ethical ideas and practices, or lack thereof, are situated may prompt questions such as: How were computers developed? By whom? Where? Why? As Meredith Broussard argues in *Artificial Unintelligence* (2018), a "particular strain of white, male bias," to which I'd add United States and Euro-centric, runs deep in tech (page 79).  
+
+More on [Feminist Social Epistemology, Stanford Encyclopedia of Philosophy[https://plato.stanford.edu/entries/feminist-social-epistemology/]
 
 ## Ethics from the standpoint of the institution
 
@@ -39,24 +42,30 @@ We are scholars, so first things first: Understand any institutional compliance 
 
 ### Thinking in terms of "levels of impact"
 
-An "impact approach" foregrounds:
+An "impact approach" (Drawing from [Markham](https://scholar.google.com/citations?user=yJVjdVUAAAAJ&hl=en&oi=ao) foregrounds:
 
-> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
+> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." 
 
-Drawing from Markham (2016), let's focus on three levels of impact:  
-1. Direct impacts on people
-2. Ramifications of (re)producing categories
-3. Social, political and economic effects  
+Let's focus on three levels of impact:  
+1. Direct impacts on people,
+2. Ramifications of (re)producing categories,
+3. Social, political and economic effects,  
+- As well as the range of impact or the range of accessibility to your work:  
+    - To people with disabilities,
+    - To people in different countries or who speak different languages, and
+    - In terms of cost and proprietary accessibility.
 
-Additionally, this workshop will address the range of impact, or the range of accessibility to your work:  
+([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
-- To people with disabilities,
-- To people in different countries or who speak different languages, and
-- In terms of cost and proprietary accessibility.
+More case studies: 
+* [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
+* [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). Even though it was 'pulled' look how recently it has been cited. 
+* We also touched on this during our data session
+[Data and Power](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/power.md)
+[Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)
 
-Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
 
-## Discussion prompt
+## Discussion 
 Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
 1. In 1 minute each, what is the *purpose* of your project—what does it *aim* to do?

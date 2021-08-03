@@ -5,9 +5,12 @@
 
 ## Activity
 * If you have a specific dataset or [database](https://guides.smu.edu/az.php) in mind, we can discuss those.
-* If not, we will look at and discuss what data is accessible through JSTOR and HathiTrust. 
-* What data can you access? What datasets can you access? 
-* Is it meant to be human readable (individual downloads only) or are you allowed to do bulk downloads?  Is the date already assembled into datasets? What restrictions or permissions are already in place? What are you allowed to do with those datasets?
+* If not, we will look at and discuss what data is accessible through JSTOR or HathiTrust. 
+* What *data* can you access? What *datasets* can you access? 
+* Is it meant to be human readable (individual downloads only) or are you allowed to do bulk downloads?  
+* Is the date already assembled into datasets? 
+* What restrictions or permissions are already in place? 
+* What are you allowed to do with those datasets?
 
 ### Examples of data sets
 * JSTOR

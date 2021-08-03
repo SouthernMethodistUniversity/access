@@ -1,4 +1,4 @@
-[<<< Previous](socpol.md) | [Next >>>](continue.md)
+[<<< Previous](socpol.md) | [Next >>>](async.md)
 
 # Range of impact: Accessibility in your work
 
@@ -6,7 +6,9 @@
 
 > "'Universal design' is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations; whereas 'accessibility' primarily refers to design for people with disabilities. While the focus of accessibility is disabilities, research and development in accessibility brings benefits to everyone, particularly users with situational limitations, including device limitations and environmental limitations." ([Shawn Lawton Henry, et al., "The role of accessibility in a universal web," 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719))  
 
-In this workshop, while I appreciate the aims of a universal design approach and especially its goal to design products that are usable across the widest possible range of people and contexts, I continue to use the term "accessibility," given that it is quite difficult to make anything truly universally accessible, across differences of, for example, institutional access, location, wealth, nationality, language abilities, mental and physical abilites, etc.  
+In this section, we will continue to use the term "accessibility," rather then universal design, given that it is quite difficult to make anything truly universally accessible, across differences of, for example, institutional access, location, wealth, nationality, language abilities, mental and physical abilites, etc. 
+
+(Although, we do appreciate the aims of a universal design approach and especially its goal to design products that are usable across the widest possible range of people and contexts.)
 
 ## Approaching accessibility
 
@@ -82,7 +84,7 @@ Think about the digital project or research you are or will be working on. Pair 
 - Will it be accessible in different languages?  
 - Will it be accessible to people with visual, hearing, mobility, or other physical, sensory, or cognitive disabilities?
 
+[<<< Previous](socpol.md) | [Next >>>](async.md)
 
-[<<< Previous](socpol.md) | [Next >>>](continue.md)
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/access)

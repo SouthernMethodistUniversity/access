@@ -27,9 +27,9 @@ Cultural heritage institutions like archives and museums can require that you as
 * What is stated at an item level? 
 
 ## Licensing restrictions
-If you’re using digital resources that were acquired or made available under a license, then **your use is governed by the license and not by copyright.** For example, SMU patrons students using ARTstor are governed by the license that SMU Libraries signed in order to make [ARTstor](https://login.proxy.libraries.smu.edu/login?url=https://library.artstor.org) images available to the SMU community. 
-
-See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
+* If you’re using digital resources that were acquired or made available under a license, then **your use is governed by the license and not by copyright.** 
+* For example, SMU patrons students using ARTstor are governed by the license that SMU Libraries signed in order to make [ARTstor](https://login.proxy.libraries.smu.edu/login?url=https://library.artstor.org) images available to the SMU community. 
+* See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
 
 ## What is fair use? 
 [Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976.](https://www.smu.edu/libraries/fondren/services/copyright/fairuse)
