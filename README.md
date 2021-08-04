@@ -6,7 +6,8 @@ We have been discussing different aspects and stages of digital scholarship proj
 * We will be discussing:
     * Copyright and licensing as it relates to accessing already existing datasets 
     * Accessibility and access
-    * As well as the related topics of ethics, consent and power in the creation or repurposing of already existing data sets 
+    * As well as the related topics of ethics, consent and power in the creation or repurposing of already existing data sets.
+    * * We are refferring back to our conversation about preconditions for success.  
 
 ## Process for DHRI
 * We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
