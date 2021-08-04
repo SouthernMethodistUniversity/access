@@ -11,9 +11,10 @@
 * * [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=)
 
 Questions
-* These reading get at issues raised thoughout this Instiitue
-* Do these raise new quesitons for you about the datastes you are thinking about creating?
-* Do these raise new quesitons for you about the datastes you are thinking about using?
+* These reading get at issues raised throughout this Instiitue
+* How much respinsibility do tese researhcers have for the outcome of thier research? Or for the ways inwhich thier dataste are used? 
+* * Do these raise new quesitons for you about the datastes you are thinking about creating?
+* * Do these raise new quesitons for you about the datastes you are thinking about using?
 
 
 [<<< Previous](accessibility.md) | [Next >>>](continue.md)
