@@ -12,9 +12,9 @@
 
 Questions
 * These reading get at issues raised throughout this Instiitue
-* How much respinsibility do tese researhcers have for the outcome of thier research? Or for the ways inwhich thier dataste are used? 
-* * Do these raise new quesitons for you about the datastes you are thinking about creating?
-* * Do these raise new quesitons for you about the datastes you are thinking about using?
+* How much responsibility do these researchers have for the outcome of thier research? Or for the ways in which thier datasets are used? 
+* * Do these raise new quesitons for you about the datasets you are thinking about creating?
+* * Do these raise new quesitons for you about the datasets you are thinking about using?
 
 
 [<<< Previous](accessibility.md) | [Next >>>](continue.md)
