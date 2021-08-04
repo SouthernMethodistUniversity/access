@@ -31,7 +31,7 @@ Situated ethics thus argues that ethical concerns will vary amongst people, disc
 
 Thinking through how ethical ideas and practices, or lack thereof, are situated may prompt questions such as: How were computers developed? By whom? Where? Why? As Meredith Broussard argues in *Artificial Unintelligence* (2018), a "particular strain of white, male bias," to which I'd add United States and Euro-centric, runs deep in tech (page 79).  
 
-More on [Feminist Social Epistemology, Stanford Encyclopedia of Philosophy[https://plato.stanford.edu/entries/feminist-social-epistemology/]
+More on [Feminist Social Epistemology, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/feminist-social-epistemology/)
 
 ## Ethics from the standpoint of the institution
 
@@ -42,9 +42,11 @@ We are scholars, so first things first: Understand any institutional compliance 
 
 ### Thinking in terms of "levels of impact"
 
-An "impact approach" (Drawing from [Markham](https://scholar.google.com/citations?user=yJVjdVUAAAAJ&hl=en&oi=ao) foregrounds:
+An "impact approach" foregrounds: 
 
-> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." 
+> "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." [A. Markham](https://scholar.google.com/citations?user=yJVjdVUAAAAJ&hl=en&oi=ao) 
+
+
 
 Let's focus on three levels of impact:  
 1. Direct impacts on people,
@@ -56,7 +58,7 @@ Let's focus on three levels of impact:
     - In terms of cost and proprietary accessibility.
 
 :white_check_mark: Read the following articles about impact 
-([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
+* [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
 :white_check_mark: More case studies: 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
