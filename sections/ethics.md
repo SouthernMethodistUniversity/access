@@ -25,7 +25,7 @@ Projects or research that engage with the digital — i.e., that examine, use, o
 
 **Situated ethics** refers to the notion that a person's understandings of and commitments to ethics or morality are greatly linked to their own experiences, positionalities, and political orientations, as well as the particular context in which that person is putting such ethics into practice (see Helen Simons and Robin Usher, *Situated Ethics in Educational Research*, 2000). "Situated ethics" draws on Donna Haraway's concept of *Situated Knowledges* (1988), which argues that all ideas, whether in science, the humanities, or personal convictions, are created from and are inherently representative of the conceptualizer's particular situated standpoint.
 
-"I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges." (Donna Haraway, *Situated Knowledges,* 1988, page 581)  
+ > "I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges." (Donna Haraway, *Situated Knowledges,* 1988, page 581)  
 
 Situated ethics thus argues that ethical concerns will vary amongst people, disciplines, projects, tools, and contexts depending on the particular situated perspective of that person, group, or project.  
 
@@ -55,11 +55,14 @@ Let's focus on three levels of impact:
     - To people in different countries or who speak different languages, and
     - In terms of cost and proprietary accessibility.
 
+:white_check_mark: Read the following articles about impact 
 ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
-More case studies: 
+:white_check_mark: More case studies: 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
-* [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). Even though it was 'pulled' look how recently it has been cited. 
+* [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). 
+* Even though this data set was 'pulled,' look how recently it has been cited. 
+
 * We also touched on this during our data session
 [Data and Power](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/power.md)
 [Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)

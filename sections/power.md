@@ -9,9 +9,9 @@
 ![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../images/power.png)  
 Image source: Created by author in MS Word.  
 
-## Discussion  
+## Discussion prompts 
 
-Let's discuss as a group:  
+We can discuss as a group:  
 
 - *BRIEFLY,* how are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall, Foucault, or others, perhaps from your own discipline?
 - How might we apply the concepts below when thinking through ethics for digital research and projects?  
@@ -36,8 +36,7 @@ The hegemonic racial discourses that associate Blackness with criminality in the
 So then when, for example, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on "crime" data (e.g. the number of arrests or convictions in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that lead to the policing and incarcerating of Black people at a much higher rate.
 
 Further reading:  
-
-[Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
+* [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
 
 ## The ramifications of (re)producing categories
 

@@ -7,7 +7,7 @@ We have been discussing different aspects and stages of digital scholarship proj
     * Copyright and licensing as it relates to accessing already existing datasets 
     * Accessibility and access
     * As well as the related topics of ethics, consent and power in the creation or repurposing of already existing data sets.
-    * * We are refferring back to our conversation about preconditions for success.  
+    * * We are referring back to our conversation about preconditions for success.  
 
 ## Process for DHRI
 * We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
@@ -44,7 +44,7 @@ What you will find in this Repository
 
 [Social, Political, and Economic Impacts of Projects or Research](sections/socpol.md)
 
-[Black Boxes & Red Teams][]
+[Black Boxes & Red Teams][sections/blackbox.md]
 
 [Accessibility in your work](sections/accessibility.md)
 

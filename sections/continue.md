@@ -1,7 +1,9 @@
 [<<< Previous](async.md)
 
 
-# :yellow_circle:Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics)
+# :yellow_circle: References 
+
+* Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics)
 
 *Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there! Also note that there is much overlap between the sub-topics below.*  
 
