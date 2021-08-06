@@ -38,6 +38,7 @@
 * [Nissenbaum, Helen, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 * [Sayers, Jentery, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
 * [Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds)  
+* [SacasasL. L M. "The Questions Concerning Technology"](https://theconvivialsociety.substack.com/p/the-questions-concerning-technology
 
 ## Critical technology, coding, and/or computation studies or practice groups
 
