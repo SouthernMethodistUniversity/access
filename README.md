@@ -44,7 +44,7 @@ What you will find in this Repository
 
 [Social, Political, and Economic Impacts of Projects or Research](sections/socpol.md)
 
-[Black Boxes & Red Teams][sections/blackbox.md]
+[Black Boxes & Red Teams](sections/blackbox.md)
 
 [Accessibility in your work](sections/accessibility.md)
 
