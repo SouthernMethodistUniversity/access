@@ -57,10 +57,9 @@ Let's focus on three levels of impact:
     - To people in different countries or who speak different languages, and
     - In terms of cost and proprietary accessibility.
 
-:white_check_mark: Read the following articles about impact 
 * [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
-:white_check_mark: More case studies: 
+More case studies: 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
 * [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). 
 * Even though this data set was 'pulled,' look how recently it has been cited. 
