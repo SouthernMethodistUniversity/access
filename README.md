@@ -7,6 +7,7 @@ We have been discussing different aspects and stages of digital scholarship proj
     * Copyright and licensing as it relates to accessing already existing datasets 
     * Accessibility and access
     * The related topics of ethics, consent and power in the creation or repurposing of already existing data sets
+
 We will also be referring back to our conversation about preconditions for success.  
 
 ## Process for DHRI
