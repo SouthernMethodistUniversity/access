@@ -2,12 +2,12 @@
 # Digital projects and research 
 
 We have been discussing different aspects and stages of digital scholarship projects. In this session we will be discussing issues related to obtaining and using data sources for your project. 
-* In accessing or creating data sets, there can be both legal (copyright and licensing) ethical issues. 
+* In accessing or creating data sets, there can be both legal (copyright and licensing) and ethical issues. 
 * We will be discussing:
     * Copyright and licensing as it relates to accessing already existing datasets 
     * Accessibility and access
-    * As well as the related topics of ethics, consent and power in the creation or repurposing of already existing data sets.
-    * * We are referring back to our conversation about preconditions for success.  
+    * The related topics of ethics, consent and power in the creation or repurposing of already existing data sets
+We will also be referring back to our conversation about preconditions for success.  
 
 ## Process for DHRI
 * We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
@@ -28,7 +28,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 [Next >>>](sections/copyright.md)  
 ----
 
-What you will find in this Repository
+What you will find in this repository.
 
 -----
 
@@ -38,13 +38,13 @@ What you will find in this Repository
 
 [Ethics](sections/ethics.md)
 
-[Direct Impacts on People through Data Collection](sections/people.md)
+[Direct impacts on people through data collection](sections/people.md)
 
-[Politics of Knowledge Production and Categorization](sections/power.md)
+[Politics of knowledge production and categorization](sections/power.md)
 
-[Social, Political, and Economic Impacts of Projects or Research](sections/socpol.md)
+[Social, political, and economic impacts of projects or research](sections/socpol.md)
 
-[Black Boxes & Red Teams](sections/blackbox.md)
+[Black boxes & red teams](sections/blackbox.md)
 
 [Accessibility in your work](sections/accessibility.md)
 
