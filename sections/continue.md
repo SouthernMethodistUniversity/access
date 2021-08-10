@@ -1,9 +1,9 @@
 [<<< Previous](async.md)
 
 
-# :yellow_circle: References 
+# :yellow_circle: References :yellow_circle:
 
-* Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics)
+Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics).
 
 *Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there! Also note that there is much overlap between the sub-topics below.*  
 
@@ -37,8 +37,8 @@
 * [Markham, Annette, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
 * [Nissenbaum, Helen, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 * [Sayers, Jentery, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
-* [Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds)  
-* [SacasasL. L M. "The Questions Concerning Technology"](https://theconvivialsociety.substack.com/p/the-questions-concerning-technology
+* [Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/rv042t281)  
+* [Sacasas, L M. "The Questions Concerning Technology"](https://theconvivialsociety.substack.com/p/the-questions-concerning-technology)
 
 ## Critical technology, coding, and/or computation studies or practice groups
 
@@ -76,7 +76,7 @@ Noble, Safiya Umoja, *The Intersectional Internet: Race, Sex, Class, and Culture
 * [Hoffmann, Anna Lauren, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 * [Joyner, April, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
 * Noble, Safiya Umoja, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018  
-* [O'Neil, Cathy, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
+* O'Neil, Cathy, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016  
 * [ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
 * [Selbst, Andrew D., Danah Boyd, Sorelle Friedler, Suresh Venkatasubramanian, and Janet Vertesi, "Fairness and Abstraction in Sociotechnical Systems," 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913)    
 * [Selbst, Andrew D. and Julia Powles, "Meaningful information and the right to explanation," 2017](https://academic.oup.com/idpl/article-pdf/7/4/233/22923065/ipx022.pdf)  
