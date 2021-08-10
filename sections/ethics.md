@@ -62,11 +62,10 @@ Let's focus on three levels of impact:
 More case studies: 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
 * [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). 
-* Even though this data set was 'pulled,' look how recently it has been cited. 
-
+    * Even though this data set was 'pulled,' look how recently it has been cited. 
 * We also touched on this during our data session
-[Data and Power](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/power.md)
-[Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)
+    * [Data and Power](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/power.md)
+    * [Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)
 
 
 ## Discussion 
