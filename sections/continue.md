@@ -49,15 +49,13 @@ Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and r
 
 ## On internet, social media and "big data" research ethics  
 * [Internet Research Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-internet-research/#)
-
-
 * [Berendt, Bettina, Marco Büchler, and Geoffrey Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015)](http://theoreti.ca/?p=5729)  
 * [Markam, Annette, and Elizabeth Buchanon, “Ethical Concerns in Internet Research,” forthcoming](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research)  
 * [Markam, Annette, Elizabeth Buchanon, the AoIR  Ethics Committee, and AoIR general membership, "Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0)," 2012](http://aoir.org/reports/ethics2.pdf)  
 * [Metcalf, Jacob, "Computing Ethics, Big Data Analytics, and Revision of the Common Rule: Reconsidering traditional research ethics
 given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.cfm?id=2935882&type=pdf)  
 * [Metcalf, Jacob and Kate Crawford, "Where are human subjects in Big Data research? The emerging ethics divide," 2016](https://journals.sagepub.com/doi/pdf/10.1177/2053951716650211)  
-Noble, Safiya Umoja, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016  
+* Noble, Safiya Umoja, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016  
 * [Sweeney, Patrick, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 * [Young, Jason, and Michael Gilmore, "Subaltern Empowerment in the Geoweb: Tensions between Publicity and Privacy," 2014](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12056)  
 * [Zimmer, Michael, and Katharina Kinder-Kurlanda, editors, *Internet Research Ethics for the Social Age: New Challenges, Cases, and Contexts*, 2017](https://www.scribd.com/document/360717441/Internet-Research-Ethics-for-the-Social-Age-New-Challenges-Cases-and-Contexts-Full)  
