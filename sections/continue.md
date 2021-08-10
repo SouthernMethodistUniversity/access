@@ -78,14 +78,14 @@ given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.
 * [ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
 * [Selbst, Andrew D., Danah Boyd, Sorelle Friedler, Suresh Venkatasubramanian, and Janet Vertesi, "Fairness and Abstraction in Sociotechnical Systems," 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913)    
 * [Selbst, Andrew D. and Julia Powles, "Meaningful information and the right to explanation," 2017](https://academic.oup.com/idpl/article-pdf/7/4/233/22923065/ipx022.pdf)  
-* [Selbst, Andrew D. and Solon Barocas, "Regulating Inscrutable Systems," 2017](http://www.werobot2017.com/wp-content/uploads/2017/03/Selbst-and-Barocas-Regulating-Inscrutable-Systems-1.pdf)  
+* Selbst, Andrew D. and Solon Barocas, "Regulating Inscrutable Systems," 2017 
 * [The Brian Lehrer Show, "Getting Algorithms Right" (podcast), 2018](https://www.wnyc.org/story/algorithms-better-or-worse/)  
 * [The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
 
 ## On ethics and the command line
 
-* [Chun, Wendy Hui Kyong, "On Software, or the Persistence of Visual Knowledge," 2004](https://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf)  
-* [Stephenson, Neal, "In the Beginning was the Command Line," 1999](http://faculty.georgetown.edu/irvinem/theory/Stephenson-CommandLine-1999.pdf)  
+* [Chun, Wendy Hui Kyong, "On Software, or the Persistence of Visual Knowledge," 2004](https://www.mitpressjournals.org/doi/pdf/10.1162/1526381043320741)  
+* [Stephenson, Neal, "In the Beginning was the Command Line," 1999](http://people.cs.georgetown.edu/~clay/classes/spring2010/os/inthebeginning.pdf)  
 
 ## On ethics and mapping
 
@@ -163,7 +163,7 @@ given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.
 ## On digital activism, its possibilities and its limitations
 
 * [Costanza-Chock, Sasha, *Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement*, 2014](https://mitpress.mit.edu/books/out-shadows-streets)  
-* [Cox, Aimee, "The Choreography of Survival," 2015](https://culanth.org/fieldsights/690-the-choreography-of-survival)  
+* [Cox, Aimee, "The Choreography of Survival," 2015](https://web.archive.org/web/20181213223723/https://culanth.org/fieldsights/690-the-choreography-of-survival)  
 * Checker, Melissa, "Stop FEMA Now: Social media, activism and the sacrificed citizen," 2016  
 * Martineau, Jarret, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," in *More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence*, ed. Elaine Coburn, 2015  
 * [Tufekci, Zeynep, "After the Protests," 2014](https://www.nytimes.com/2014/03/20/opinion/after-the-protests.html?rref=collection%2Fcolumn%2Fzeynep-tufekci&action=click&contentCollection=opinion&region=stream&module=stream_unit&version=latest&contentPlacement=14&pgtype=collection)  
@@ -174,11 +174,11 @@ given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.
 
 Please see below a list of key terms and concepts, provided in alphabetical order (excluding articles).  
 
-**accessibility**—accessibility is "the quality or condition of being accessible (in various senses)," and "access" refers to "to obtain, acquire; to get hold of" or "to gain admission to" (source: Oxford English Dictionary online). "Accessibility" in design speak often refers to design for people with disabilities (see [Shawn Lawton Henry, et al. 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719)). This workshop employs the term "accessibility" to refer to access to those folks as well as to people in different international contexts and/or who speak different languages, and to methods of open or non-proprietary design and sharing (see the [Range of Impact](range.md) page).  
+**accessibility**—accessibility is "the quality or condition of being accessible (in various senses)," and "access" refers to "to obtain, acquire; to get hold of" or "to gain admission to" (source: Oxford English Dictionary online). "Accessibility" in design speak often refers to design for people with disabilities (see [Shawn Lawton Henry, et al. 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719)). This workshop employs the term "accessibility" to refer to access to those folks as well as to people in different international contexts and/or who speak different languages, and to methods of open or non-proprietary design and sharing (see the [Range of Impact](accessibility.md) page).  
 
 **accountability**—accountability refers to "the quality of being accountable; liability to account for and answer for one's conduct, performance of duties, etc." or "responsibility" (source: Oxford English Dictionary online). What matters most is how a person practices accountability. For example, Doug Boyd's (2015) article on ["Informed Accessioning: Questions to Ask After the Interview"](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/) and Roshanak Kheshti's interview on ["Sound recording, oral positionality, and audio as ethnographic object"](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/) are useful sources on how to practice accountability when recording and sharing interviews and other audio files.  
 
-**The Belmont Report**—published by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research in 1979, the Belmont Report ""identifies basic ethical principles and guidelines that address ethical issues arising from the conduct of research with human subjects" (source: [HHS.gov](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html); see [The Belmont Report](belmont.md) page).  
+**The Belmont Report**—published by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research in 1979, the Belmont Report ""identifies basic ethical principles and guidelines that address ethical issues arising from the conduct of research with human subjects" (source: [HHS.gov](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html); see [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic) page).  
 
 **beneficence**—beneficence is a core principe in *the Belmont Report* that stipulates that researchers should "(1) do not harm and (2) maximize possible benefits and minimize possible harms." A key concern when applying this principle is an *assessment of risks and benefits* (source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic); see [The Belmont Report](belmont.md) page).  
 
