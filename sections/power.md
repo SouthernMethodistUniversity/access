@@ -31,12 +31,11 @@ For further readings, see the section "Key works (among many more!) on the polit
 
 ### An example:
 
-The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people -- and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
+The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people — and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
 
 So then when, for example, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on "crime" data (e.g. the number of arrests or convictions in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that lead to the policing and incarcerating of Black people at a much higher rate.
 
-Further reading:  
-* [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
+Further reading: [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
 
 ## The ramifications of (re)producing categories
 
@@ -55,9 +54,9 @@ Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanit
 
 ## Bias in, bias out: Systems of oppression and inputting human bias
 
-**Human beings** are making decisions that inform how these groupings are being made, and human "beliefs are embedded in the design and concept of technological systems" (Broussard, 2018, page 67). Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints—personally, socially, and historically.  
+**Human beings** are making decisions that inform how these groupings are being made, and human "beliefs are embedded in the design and concept of technological systems" (Broussard, 2018, page 67). Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints — personally, socially, and historically.  
 
-The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](https://github.com/SouthernMethodistUniversity/access/blob/master/sections/continue.md#glossary) for definitions). These oppressive systems effect — sometimes intentionally, sometimes not — the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
+The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](https://github.com/SouthernMethodistUniversity/access/blob/master/sections/continue.md#glossary) for definitions). These oppressive systems affect — sometimes intentionally, sometimes not — the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
 
 > "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them," (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
