@@ -1,7 +1,8 @@
 [<<< Previous](copyright.md) | [Next >>>](ethics.md)  
 
-# Accessing already existing datasets touches on issues of licensing and copyright
-[Data sources: Overview guide](https://guides.smu.edu/data) 
+# Access
+Accessing already existing datasets touches on issues of licensing and copyright.
+* [Data sources: Overview guide](https://guides.smu.edu/data) 
 
 ## Activity
 * If you have a specific dataset or [database](https://guides.smu.edu/az.php) in mind, we can discuss those.
