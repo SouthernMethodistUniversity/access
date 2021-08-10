@@ -5,8 +5,9 @@ The approach of this discussion is premised on the understanding that there is n
 
 We will discuss: 
 * specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: 
-* (1) direct impacts on people through data collection; 
-* (2) the politics of knowledge production and categorization; and (3) social, political, and economic impacts of projects or research (Discussing [Markham 2016];
+    1. direct impacts on people through data collection; 
+    2. the politics of knowledge production and categorization; and 
+    3. social, political, and economic impacts of projects or research (Discussing [Markham 2016];
 *  Critically consider questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
 
 ## What are ethics?
@@ -45,7 +46,6 @@ We are scholars, so first things first: Understand any institutional compliance 
 An "impact approach" foregrounds: 
 
 > "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." [A. Markham](https://scholar.google.com/citations?user=yJVjdVUAAAAJ&hl=en&oi=ao) 
-
 
 
 Let's focus on three levels of impact:  
