@@ -4,10 +4,10 @@
 The approach of this discussion is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, we will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.
 
 We will discuss: 
-* specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: 
-    1. direct impacts on people through data collection; 
-    2. the politics of knowledge production and categorization; and 
-    3. social, political, and economic impacts of projects or research (Discussing [Markham 2016];
+* Specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: 
+    * (1) direct impacts on people through data collection; 
+    * (2) the politics of knowledge production and categorization; and 
+    * (3) social, political, and economic impacts of projects or research (Discussing [Markham 2016];
 *  Critically consider questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
 
 ## What are ethics?
