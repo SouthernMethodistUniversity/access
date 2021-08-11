@@ -4,11 +4,7 @@
 The approach of this discussion is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, we will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.
 
 We will discuss: 
-* Specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: 
-    * (1) direct impacts on people through data collection; 
-    * (2) the politics of knowledge production and categorization; and 
-    * (3) social, political, and economic impacts of projects or research (Discussing [Markham 2016];
-*  Critically consider questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
+* Specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools.
 
 ## What are ethics?
 
@@ -48,16 +44,11 @@ An "impact approach" foregrounds:
 > "... the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." [A. Markham](https://scholar.google.com/citations?user=yJVjdVUAAAAJ&hl=en&oi=ao) 
 
 
-Let's focus on three levels of impact:  
-1. Direct impacts on people,
-2. Ramifications of (re)producing categories,
-3. Social, political and economic effects,  
-- As well as the range of impact or the range of accessibility to your work:  
-    - To people with disabilities,
-    - To people in different countries or who speak different languages, and
-    - In terms of cost and proprietary accessibility.
-
-* [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
+Let's focus on these levels of impact:  
+1. Direct impacts on people through data collection; 
+2. Ramifications of (re)producing categories: i.e. the politics of knowledge production and categorization; 
+3. social, political, and economic impacts of projects or research. Critically consider questions of: accessibility and openness, for people of varying (dis)abilities, and depending on people's language fluencies, access to technology and speedy internet, and geo-political location in the world.
+    * [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))
 
 More case studies: 
 * [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
@@ -68,12 +59,12 @@ More case studies:
     * [Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)
 
 
-## Discussion 
-Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
+## Reflection prompt
+Think about the digital project or research you are or will be working on. If you had to describe your project to someone unfamiliar with your research, could you do the following:  
 
 1. In 1 minute each, what is the *purpose* of your project—what does it *aim* to do?
 2. In 1 minute each, what is the *design* of your project—*how* will you do this?
-3. In relation to each of your projects' purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?
+3. In relation your projects' purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?
 
 [<<< Previous](access.md) | [Next >>>](people.md)
 -----

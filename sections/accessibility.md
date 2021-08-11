@@ -31,7 +31,7 @@ Sources to check out:
 
 ### International accessibility and language access
 
-Questions to consider:
+Reflection prompt: Questions to consider:
 
 - Is your project accessible from outside of the country where you made it?
 - Are there particular language-speaking audiences that may find your project useful or pertinent? Is your project accessible in the language(s) that they speak?
@@ -74,9 +74,9 @@ When might researchers or makers decide *not* to even record data or media, or t
 
 > "As we celebrate enhancements to the discovery of and access to our online oral history collections, we need to carefully reflect on and consider the consequences of providing immediate and widespread access to oral history interviews... No matter what the topic, oral history interviews can contain a massive amount of personal information posing a wide range of potential risks to the narrator, but also to the archive." ([Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/))  
 
-## Activity  
+## Reflection prompt  
 
-Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
+Think about the digital project or research you are or will be working on. If you had to describe your project to someone unfamiliar with your research, could you discuss the following questions:  
 
 - Who will be able to access your research or project? 
 - Where and through what media will it be accessible?

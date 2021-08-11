@@ -22,7 +22,7 @@ We will also be referring back to our conversation about preconditions for succe
 * If text appears blue in a repository, that just means it is a hyperlink.
     * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
 
-## Required before this session (8/10/21)
+## Required before this session (8/12/21)
 * All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md).     
 
 

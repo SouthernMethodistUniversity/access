@@ -56,19 +56,21 @@ Some questions to consider:
 - What forms of "public" data are ethical to use? Or require attribution?
 - How might we (intentionally or inadvertently) share data?
 
+* Example of researches not complying with IRB: [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world.](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+
+
 For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
-* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world.](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
 ### The question of personhood
 
-Some questions to consider:  
+* Reflection prompt - Consider the following questions:  
 
 - "Is an avatar a person?"  
 - "Is one’s digital information [e.g., photos, videos, audio, social media posts] an extension of the self?"  
 - "Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*  
 - "Does the connection between one’s online data and their physical person enable psychological, economic, or physical harm?"  Source: [Ethical Decision-Making and Internet Research, Ver. 2.0 ](http://aoir.org/reports/ethics2.pdf)  
-- [AoIR Ethics Working Committee Guidelines and Reports](https://aoir.org/ethics/)
+- [Additional AoIR Ethics Working Committee Guidelines and Reports](https://aoir.org/ethics/)
 
 ## A case study  
 

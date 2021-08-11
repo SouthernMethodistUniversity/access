@@ -9,11 +9,9 @@
 ![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../images/power.png)  
 Image source: Created by author in MS Word.  
 
-## Discussion prompts 
+## Reflection prompt 
 
-We can discuss as a group:  
-
-- *BRIEFLY,* how are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall, Foucault, or others, perhaps from your own discipline?
+- How are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall, Foucault, or others, perhaps from your own discipline?
 - How might we apply the concepts below when thinking through ethics for digital research and projects?  
 
 Some key concepts:

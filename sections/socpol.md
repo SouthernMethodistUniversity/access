@@ -6,7 +6,7 @@
 
 > "At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
-Some questions to consider:
+Reflection prompt: Some questions to consider:
 
 - Whose **labor** and what **materials** are used to make the digital tools you use? How should we (those who benefit from the labor of other people) attribute others' labor? How can we (users of these tools) be held accountable?  
 
@@ -41,12 +41,12 @@ Further readings:
 * [Anna Lauren Hoffmann, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018.](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 * [The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018.](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
 * [Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018.](https://nyupress.org/books/9781479837243/)  
-* [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016.](https://weaponsofmathdestructionbook.com/)  
+* [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016.](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)  
 * [Matthew Zook et al, "Ten simple rules for responsible big data research," 2017.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
-## Activity   
+## Reflection prompt   
 
-Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
+Think about the digital project or research you are or will be working on. If you had to describe your project to someone unfamiliar with your research, could you discuss the following questions:   
 
 * Whose labor and what materials do you rely upon to do your work?  
 * Could your research or project be used to justify or facilitate potentially harmful control or surveillance -- by, e.g., the state, a vigilante group, an abusive partner?  
