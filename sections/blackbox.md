@@ -4,7 +4,7 @@
 When corporations, journalists, governmental entities, NGOs, non-profits, researchers keep their data sets and processes hidden, what issues can this raise around ethics and access? 
 * If they don't keep their data sets hidden, can that also raise ethical issues? 
 * How important is it to consult with disciplinary experts? Community members? 
-* How does what your community incentivize encourage certain behaviors. 
+* How does what your community incentivize encourage certain behaviors?
 
 We discussed some of this in our [Intro session](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how.md).
 * "This past April, Tech Insider talked to experts in the fields of clinical pathology and laboratory medicine, microfluidics, and biomedical engineering to try to piece together an answer [on how the Theranos Edision machine was supposed to work]. No one could figure it out conclusively, because as Dr. David Koch, president of the American Association for Clinical Chemistry and a professor at Emory University, said then, "It may be wonderful [or] it may bomb, but I really can't be more definitive because there's nothing to really look at, to read, to react to."[What we know about how Theranos' 'revolutionary' technology works](https://www.businessinsider.com/how-theranos-revolutionary-technology-works-2015-10) & [What Exactly Was The Theranos Edison Machine Supposed To Do?](https://www.refinery29.com/en-us/2019/03/224904/theranos-edison-machine-blood-test-technology-explained)
